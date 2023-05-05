@@ -1,2 +1,2 @@
-# Frontend-1.
+# Frontend-Module-1.
 Museum-Website Concept.
